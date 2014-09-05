@@ -1,0 +1,26 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "RichardG",
+    "longName": "PebbleWear",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/android.png",
+                "menuIcon": true,
+                "name": "IMAGE_APP_ICON",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Wear",
+    "uuid": "69fbcd85-91ae-4fbf-8d71-a6321dca8b28",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
