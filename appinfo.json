@@ -4,19 +4,12 @@
         ""
     ],
     "companyName": "RichardG",
-    "longName": "PebbleWear",
+    "longName": "WearLazy",
     "projectType": "native",
     "resources": {
-        "media": [
-            {
-                "file": "images/android.png",
-                "menuIcon": true,
-                "name": "IMAGE_APP_ICON",
-                "type": "png"
-            }
-        ]
+        "media": []
     },
-    "shortName": "Wear",
+    "shortName": "WearLazy",
     "uuid": "69fbcd85-91ae-4fbf-8d71-a6321dca8b28",
     "versionCode": 1,
     "versionLabel": "1.0",
